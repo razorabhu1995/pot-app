@@ -1,0 +1,8 @@
+# Ignore everything
+**
+
+# except source files
+!/package.json
+!/babel.config.js
+!/src
+!/public
